@@ -1,5 +1,5 @@
 # weather_arduino
 
-Shows Logo, date, time, weather on Microcontroller Lora (language used - C)
+Show Logo, date, time and weather (language used - C)
 
-You will need the following libraries - 
+You need the following libraries - Adafruit_ADXL343, Adafruit_Unified_Sensor, DHT_sensor_library, DS3231, LiquidCrystal_I2C, LoRa, U8g2, WiFi
