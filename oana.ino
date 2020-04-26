@@ -16,11 +16,8 @@
 
 U8G2_SSD1306_128X64_NONAME_F_SW_I2C u8g2(U8G2_R0, /* clock=*/ 15, /* data=*/ 4, /* reset=*/ 16);
 
-const char* ssid       = "UPCFB8C751";
-const char* password   = "npz6jzMpbjzw";
-
-//const char* ssid       = "Idrive";
-//const char* password   = "idrive@2019";
+const char* ssid       = "SSID";
+const char* password   = "Password";
 
 const char* ntpServer = "pool.ntp.org";
 const long  gmtOffset_sec = 7200;
